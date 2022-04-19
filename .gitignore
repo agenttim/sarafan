@@ -5,6 +5,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 !**/src/main/java/letscode/sarafan/Hello.java
+Hello.java
 
 # Local configuration file (sdk path, etc)
 local.properties
