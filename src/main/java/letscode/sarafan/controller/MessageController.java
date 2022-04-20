@@ -48,6 +48,7 @@ public class MessageController {
         return messageRepo.save(messageFromDb);
     }
 
+
     @DeleteMapping("{id}")
     public void delete(@PathVariable("id") Message message) {
         messageRepo.delete(message);
