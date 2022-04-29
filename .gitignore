@@ -6,6 +6,7 @@ build/
 !**/src/test/**/build/
 !**/src/main/java/letscode/sarafan/Hello.java
 application.properties
+node_modules/
 
 
 ### STS ###
